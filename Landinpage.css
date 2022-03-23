@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css2?family=Lemon&display=swap%27);
+
+.containerindex{
+    background-image: url(../public/img/bg-hd.svg);
+}
+.containerindex h1{
+    font-family: 'lemon', cursive;
+    color: white;
+    margin:0;
+    padding:0;
+    font-size:8vw;
+
+}
+.containerindex p{
+    font-family: poppins;
+    color: white;
+}
+body{
+    margin:0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: 100vw;
+}
+.containersource{
+    background-image: url(../public/img/bg-hd.svg);
+
+}
+.number{
+    font-family: 'lemon', cursive;
+    color: white;
+}
+.comment{
+    color: white;
+}
+
+.indexinfo h3{
+    color: #7aa37e;
+    font-family: 'lemon', cursive;
+}
+.textTest{
+    color: #7aa37e;
+}
+
+p {
+    padding-right: 10%;
+    font-size: 12.5px;
+    line-height:2.3ch;
+}
+h5{
+    font-size: 12.5px;
+}
